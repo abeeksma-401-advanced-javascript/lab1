@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "this will be sooooo cool",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -11,3 +13,4 @@
     "jest": "^24.8.0"
   }
 }
+
